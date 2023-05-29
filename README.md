@@ -1,8 +1,8 @@
 [![mdgucdemir-streak](https://github-readme-streak-stats.herokuapp.com?user=mdgucdemir&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 
-[![mdgucdemir-Top Langs](https://github-readme-stats.vercel.app/api?username=mdgucdemir&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![mdgucdemir-Top Langs](https://github-readme-stats-sigma-five.vercel.app/api?username=mdgucdemir&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![mdgucdemir-Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdgucdemir&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![mdgucdemir-Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdgucdemir&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
